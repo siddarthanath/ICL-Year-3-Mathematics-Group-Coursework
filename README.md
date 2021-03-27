@@ -1,2 +1,3 @@
 # ICL-Year-3-Mathematics-Group-Coursework
-Group coursework (of 3) focussing on Hilbert Transforms and their uses in Signal Processing
+## Note: 
+*This project is &copy; by the written authors and hence any material cannot be copied directly. If you wish to use any code, images or written analysis, please email:* sidnath01@hotmail.com 
